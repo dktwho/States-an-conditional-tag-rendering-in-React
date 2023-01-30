@@ -1,3 +1,8 @@
+# Содержание
+
+1. По умолчанию стейт false, по нажатию на кнопку показывается абзац, также меняетсья значение на кнопке show/hide.
+2. Есть 4 кнопки, каждая отвечает за свой стейт с параграфом.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
